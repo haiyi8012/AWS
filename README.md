@@ -1,3 +1,12 @@
+S3とEBSが違いは何ですか。
+
+・EFS（Elastic File System）　可扩展的、弹性原生云 NFS 文件系统
+-https://amazonaws-china.com/cn/efs/
+
+・S3（Amazon Simple Storage Service）对象存储服务　专为从任意位置存储和检索任意数量的数据而构建的对象存储
+―https://amazonaws-china.com/cn/s3/
+―https://docs.aws.amazon.com/zh_cn/AmazonS3/latest/dev/batch-ops-basics.html
+
 ・EC2（Amazon Elastic Compute Cloud）可以在云中提供安全并且可调整大小的计算容量
 -https://amazonaws-china.com/cn/ec2/
 
@@ -46,3 +55,7 @@ https://amazonaws-china.com/cn/getting-started/products/
 ・AWS connect
 ————————————————
 原文链接：https://blog.csdn.net/hackermmm/article/details/82756504
+
+S3 EBS EFS 的区别：
+https://www.xiaopeiqing.com/posts/2932.html
+S3 
