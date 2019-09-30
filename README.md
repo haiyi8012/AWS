@@ -64,4 +64,7 @@ https://amazonaws-china.com/cn/getting-started/products/
 
 S3 EBS EFS 的区别：
 https://www.xiaopeiqing.com/posts/2932.html
-S3 
+
+・AWS Support (Basic)　注意
+https://www.771633.com/4128.htm
+
