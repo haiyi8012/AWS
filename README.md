@@ -1,3 +1,9 @@
+・EC2（Amazon Elastic Compute Cloud）可以在云中提供安全并且可调整大小的计算容量
+-https://amazonaws-china.com/cn/ec2/
+
+・EBS　（Amazon Elastic Block Store）易于使用、适用于任何规模的高性能数据块存储
+―https://amazonaws-china.com/cn/ebs/
+
 ・IAM（Identity and Access Management）身份识别与访问管理
 -https://baike.baidu.com/item/IAM/10915?fr=aladdin
 
