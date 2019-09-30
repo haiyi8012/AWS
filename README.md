@@ -68,3 +68,10 @@ https://www.xiaopeiqing.com/posts/2932.html
 ・AWS Support (Basic)　注意
 https://www.771633.com/4128.htm
 
+・AWS 免费套餐
+-https://amazonaws-china.com/cn/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
+
+・入门指南
+https://amazonaws-china.com/cn/getting-started/
+
+
