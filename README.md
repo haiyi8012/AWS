@@ -1,4 +1,7 @@
-S3とEBSが違いは何ですか。
+・AWS Lambda（一项计算服务，可使您无需预配置或管理服务器即可运行代码）
+―https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/welcome.html
+
+#S3とEBSが違いは何ですか。
 
 ・EFS（Elastic File System）　可扩展的、弹性原生云 NFS 文件系统
 -https://amazonaws-china.com/cn/efs/
