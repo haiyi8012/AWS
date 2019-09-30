@@ -1,3 +1,6 @@
+・商品List
+https://amazonaws-china.com/cn/getting-started/products/
+
 需要熟练掌握的服务：
 ・Amazon EC2
 ・Amazon VPC
