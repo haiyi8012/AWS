@@ -1,3 +1,6 @@
+・RDS　（Amazon Relational Database Service）能够在云中轻松设置、操作和扩展关系数据库
+―https://amazonaws-china.com/cn/rds/
+
 ・AWS Lambda（一项计算服务，可使您无需预配置或管理服务器即可运行代码）
 ―https://docs.aws.amazon.com/zh_cn/lambda/latest/dg/welcome.html
 
