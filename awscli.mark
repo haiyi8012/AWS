@@ -7,4 +7,5 @@ $ pip3 install awscli --upgrade --user
 
 ======依頼
 https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html
+https://amazonaws-china.com/cn/getting-started/tutorials/backup-to-s3-cli/
 
