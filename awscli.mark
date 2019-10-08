@@ -1,0 +1,10 @@
+使用 pip 安装 AWS CLI:
+
+$ pip3 install awscli --upgrade --user
+
+--upgrade 选项通知 pip3 升级已安装的任何必要组件。--user 选项通知 pip3 将程序安装到用户目录的子目录中，以避免修改您的操作系统所使用的库。
+
+
+======依頼
+https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html
+
