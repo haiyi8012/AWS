@@ -1,20 +1,20 @@
-使用 pip 安装 AWS CLI:
+一、使用 pip3 安装 AWS CLI:
 
 $ pip3 install awscli --upgrade --user
 
 --upgrade 选项通知 pip3 升级已安装的任何必要组件。--user 选项通知 pip3 将程序安装到用户目录的子目录中，以避免修改您的操作系统所使用的库。
-
 
 ======依頼
 https://docs.aws.amazon.com/zh_cn/cli/latest/userguide/cli-chap-install.html
 https://amazonaws-china.com/cn/getting-started/tutorials/backup-to-s3-cli/
 ――――――――――
 
-https://www.jianshu.com/p/6b836881d570
-・使用 pip3 安装 sam cli：
+
+二、使用 pip3 安装 sam cli：
 pip3 install --user aws-sam-cli
 ・检查是否安装成功
 sam --version
   SAM CLI, version 0.3.0
-
+＝＝＝＝依頼
+https://www.jianshu.com/p/6b836881d570
 
