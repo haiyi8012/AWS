@@ -1,0 +1,18 @@
+
+先决条件
+您必须先拥有以下项目，然后才能安装 ：
+
+一个 Amazon Web Services 账户 – 要获取 AWS 账户，请转至 AWS 主页，然后选择 Sign Up Now (立即注册)。通过注册，您将能够使用由 AWS 提供的所有服务。
+
+一个受支持的操作系统 – 在 Windows、Linux、macOS 或 Unix 上受支持。
+
+版本 2018.3.x 或更高版本 – 我们尝试使用 下载页面上提供的默认版本将 保持最新。
+
+AWS SAM CLI – 这是一个 AWS CLI 工具，可帮助您在本地开发、测试和分析您的无服务器应用程序。虽然这不是安装工具包所必需的，但我们建议您安装它，因为任何 AWS Lambda 功能都需要它。请参阅 AWS 无服务器应用程序模型 开发人员指南 中的 安装 AWS SAM CLI
+
+Docker – 此开源软件容器平台是 AWS SAM CLI 所需的。有关更多信息和下载说明，请参阅 Docker。
+
+＝＝＝＝＝＝＝＝＝依頼
+https://docs.aws.amazon.com/zh_cn/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-windows.html
+https://www.jianshu.com/p/6b836881d570
