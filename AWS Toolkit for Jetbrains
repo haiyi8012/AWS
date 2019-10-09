@@ -13,6 +13,9 @@ AWS SAM CLI – 这是一个 AWS CLI 工具，可帮助您在本地开发、测�
 Docker – 此开源软件容器平台是 AWS SAM CLI 所需的。有关更多信息和下载说明，请参阅 Docker。
 
 ＝＝＝＝＝＝＝＝＝依頼
+https://amazonaws-china.com/cn/about-aws/whats-new/2019/03/the-aws-toolkit-for-intellij-is-now-generally-available/
+https://plugins.jetbrains.com/plugin/11349-aws-toolkit/versions
+
 https://docs.aws.amazon.com/zh_cn/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-windows.html
 https://www.jianshu.com/p/6b836881d570
