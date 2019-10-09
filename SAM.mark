@@ -1,4 +1,7 @@
 
+YAML 模板
+Lambda 函数、API 终端节点、DynamoDB 表和其他资源
+
 无服务器应用程序模型 (SAM) Serverless Application Model 
 https://amazonaws-china.com/cn/blogs/china/aws-serverless-application-model-sam-command-line-interface-build-test-and-debug-serverless-apps-locally/?nc1=b_rp
 
