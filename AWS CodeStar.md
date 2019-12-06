@@ -1,3 +1,9 @@
+## eclipse 不能导入codestar问题
+https://docs.aws.amazon.com/ja_jp/codecommit/latest/userguide/setting-up-gc.html#setting-up-gc-iam
+
+# codestar Action 权限添加
+
+
 ##  AWS CodeCommit 
 https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-https-unixes.html
 
