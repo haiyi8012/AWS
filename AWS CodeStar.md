@@ -2,7 +2,7 @@
 https://docs.aws.amazon.com/ja_jp/codecommit/latest/userguide/setting-up-gc.html#setting-up-gc-iam
 
 # codestar Action 权限添加
-
+您必须使用具有 AWSCodeStarFullAccess 策略的 IAM 用户登录 AWS 管理控制台
 
 ##  AWS CodeCommit 
 https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-https-unixes.html
