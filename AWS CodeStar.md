@@ -1,3 +1,5 @@
+## HTTPS Git credentials for AWS CodeCommit
+
 ## 使用 Git 凭证从开发工具设置连接
 https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-ide.html
 
