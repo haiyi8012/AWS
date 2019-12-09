@@ -2,6 +2,8 @@
 https://docs.aws.amazon.com/zh_cn/toolkit-for-eclipse/v1/user-guide/tke-sam-local.html
 https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-gc.html
 **https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/id_credentials_ssh-keys.html#git-credentials-code-commit**
+**https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-gc.html**
+
 ## AWS CodeStar 入门
 https://docs.aws.amazon.com/zh_cn/codestar/latest/userguide/getting-started.html
 
