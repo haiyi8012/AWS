@@ -1,3 +1,6 @@
+## AWS CodeStar 入门
+https://docs.aws.amazon.com/zh_cn/codestar/latest/userguide/getting-started.html
+
 ## eclipse 不能导入codestar问题
 https://docs.aws.amazon.com/ja_jp/codecommit/latest/userguide/setting-up-gc.html#setting-up-gc-iam
 
