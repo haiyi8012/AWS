@@ -1,3 +1,6 @@
+## 使用 Git 凭证从开发工具设置连接
+https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-ide.html
+
 ## 将 Git 凭证和 HTTPS 与 AWS CodeCommit 配合使用。
 https://docs.aws.amazon.com/zh_cn/toolkit-for-eclipse/v1/user-guide/tke-sam-local.html
 https://docs.aws.amazon.com/zh_cn/codecommit/latest/userguide/setting-up-gc.html
