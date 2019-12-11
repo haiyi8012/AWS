@@ -1,4 +1,10 @@
+AmazonSageMakerFullAccess IAM 策略的角色。
+
+
 https://aws.amazon.com/cn/training
+用户：8...0@qq.com
+pwd: a.....1
+
 
 Amazon Route 53 域名注册服务
 
