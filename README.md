@@ -1,5 +1,9 @@
-AmazonSageMakerFullAccess IAM 策略的角色。
+sample training
+https://amazonaws-china.com/cn/blogs/aws/sagemaker/
 
+AmazonSageMakerFullAccess IAM 策略的角色。
+创建角色
+arn:aws:iam::869615112815:role/sagemakerole
 
 https://aws.amazon.com/cn/training
 用户：8...0@qq.com
