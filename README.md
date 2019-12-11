@@ -8,6 +8,9 @@ pwd: a.....1
 
 Amazon Route 53 域名注册服务
 
+・Amazon 资源名称 (ARN)
+-https://docs.aws.amazon.com/zh_cn/general/latest/gr/aws-arns-and-namespaces.html
+
 ・RDS　（Amazon Relational Database Service）能够在云中轻松设置、操作和扩展关系数据库
 ―https://amazonaws-china.com/cn/rds/
 
