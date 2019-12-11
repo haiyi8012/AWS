@@ -76,4 +76,9 @@ https://www.771633.com/4128.htm
 ・入门指南
 https://amazonaws-china.com/cn/getting-started/
 
+AWS的认证有路线图，主要分为Architecting（架构）、Developing（开发）、Operations（运维）三条线。
+
+每条线又分为助理级认证和专家级认证，必须通过助理级认证后才能考取相应的专家级认证。
+associate professional
+
 
