@@ -1,3 +1,6 @@
+## notebook DeepAR 
+https://amazonaws-china.com/cn/blogs/china/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/
+
 sample training
 https://amazonaws-china.com/cn/blogs/aws/sagemaker/
 
