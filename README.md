@@ -83,4 +83,5 @@ AWS的认证有路线图，主要分为Architecting（架构）、Developing（�
 每条线又分为助理级认证和专家级认证，必须通过助理级认证后才能考取相应的专家级认证。
 associate professional
 
-
+关于 Amazon SageMaker
+https://blog.csdn.net/weixin_34280237/article/details/86721206
