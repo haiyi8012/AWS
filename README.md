@@ -5,6 +5,7 @@ https://amazonaws-china.com/cn/blogs/china/now-available-in-amazon-sagemaker-dee
 
 sample training
 https://amazonaws-china.com/cn/blogs/aws/sagemaker/
+Jupyter Lab
 
 AmazonSageMakerFullAccess IAM 策略的角色。
 创建角色
