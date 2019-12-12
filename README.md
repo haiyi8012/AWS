@@ -12,6 +12,7 @@ AmazonSageMakerFullAccess IAM 策略的角色。
 arn:aws:iam::869615112815:role/sagemakerole
 
 https://aws.amazon.com/cn/training
+https://www.aws.training/LearningLibrary
 用户：8...0@qq.com
 pwd: a.....1
 
