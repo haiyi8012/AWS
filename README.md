@@ -37,6 +37,9 @@ Amazon Route 53 域名注册服务
 
 ・EC2（Amazon Elastic Compute Cloud）可以在云中提供安全并且可调整大小的计算容量
 -https://amazonaws-china.com/cn/ec2/
+Amazon 系统映像 (AMI) 
+https://www.amazonaws.cn/ec2/features/?nc1=h_ls
+
 
 ・EBS　（Amazon Elastic Block Store）易于使用、适用于任何规模的高性能数据块存储
 ―https://amazonaws-china.com/cn/ebs/
